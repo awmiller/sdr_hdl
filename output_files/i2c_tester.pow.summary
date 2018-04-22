@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Sat Apr 21 15:49:40 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : i2c_tester
+Top-level Entity Name : i2c_tester
+Family : MAX 10
+Device : 10M08SAE144C8G
+Power Models : Final
+Total Thermal Power Dissipation : 126.86 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 120.98 mW
+I/O Thermal Power Dissipation : 5.88 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.380
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.380
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.759
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'xtal_50M'
+Slack : 9.929
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.724
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.750
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'xtal_50M'
+Slack : 9.938
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 5.757
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ADC_Strobe_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.759
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'xtal_50M'
+Slack : 9.649
+TNS   : 0.000
+
+------------------------------------------------------------
